@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="HelloWorld.qml">qml/HelloWorld.qml</file>
+        <file alias="StatusSquare.qml">qml/StatusSquare.qml</file>
+        <file alias="KeyboardStatus.qml">qml/KeyboardStatus.qml</file>
+        <file alias="BaseFsFrame.qml">qml/BaseFsFrame.qml</file>
+    </qresource>
+</RCC>
